@@ -1,0 +1,127 @@
+-------------------------------------------------- User Disclaimer ------------------------------------------------------------------
+\*\ This is the Question Data for the Quiz App! Do not mess up with the data or else your app warranty will be discarded for sure!
+Do Not Modify it simply without having any Knowledge or without keeping up with the correct format of data. Altering the data just for fun shall not be entertained under any circumstances. The Data is prepared with respect to a proper format.
+
+[*]Format of A Level : 
+ [LEVEL<level_tag>]:<Level_Identity>
+ Q<two-digit_question_number>. <question_(should_fit_in_a_single_line)>
+ ; <option1>; <option2>; <option3>; <option4>
+ A<two-digit_question_number(should_match_same_question_number)>. (<option_input(a, b, c, d)>, <option>)
+ Q<two-digit_question_number>. <question_(should_fit_in_a_single_line)>
+ ; <option1>; <option2>; <option3>; <option4>
+ A<two-digit_question_number(should_match_same_question_number)>. (<option_input(a, b, c, d)>, <option>)
+    ...
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+[LEVEL1]:Literature
+Q01. Which of the following is the correct word for training so as to improve our skills 
+; Practice; Practise; Both (a) and (b); None
+A01. ('c', '3', 'both (a) and (b)', 'both a and b', 'a+b', 'a and b', 'ab')
+Q02. Which of the following is the correct synonym for Seldom
+; Quick; Rare; Care; Stick
+A02. ('b', '2', 'rare')
+Q03. Which of the following is the symbol called Interrobang
+; #$ ; ?!; ->!; >#
+A03. ('b', '2', '?!')
+Q04. Which of the following do you watch in television 
+; Programme; Program; Both (a) and (b); None
+A04. ('a', '1', 'programme')
+Q05. Which of the following is an English word (US)
+; cannoe; Redundant; Independant; All of these
+A05. ('b', '2', 'redundant')
+Q06. Which of the following is a one word for 'something good might happen' 
+; Faith; Believe; Freedom; Prospect 
+A06. ('d', '4', 'prospect')
+
+[LEVEL2]:Python v2.7
+Q01. Which of the following is used to add extra features in python 
+; Design; Creativity; Google; Module 
+A01. ('d', 'module')
+Q02. Which of the following is/are inbuilt module(s) in python 
+; All the other Options; turtle; Tkinter; keyword 
+A02. ('a', 'all', 'all of these', 'all the other options')
+Q03. What is the role of 'data' in sys.exit('data')
+; Error Message; Display Message; Keyword; Error [ Invalid Syntax / No Role ] 
+A03. ('a', 'error message')
+Q04. Which of the following file extensions of a Python Program does Python 2.7 supports whereas Python 3.5 would not 
+; .pyc; .pyo; .pyw; .pyz 
+A04. ('b', '.pyo', 'pyo')
+Q05. Which of these could take calculations (in place of 'X') and can work with the result  
+; string[x] and string[:X]; int(X) and float(X); time.sleep(X); All of These
+A05. ('d', 'all of these', 'all')
+Q06. [BONUS] Can time.time() accept any arguement
+; Yes; No; Don't Know; Not Defined 
+A06. ('b', 'n', 'no', '0')
+
+[LEVEL3]:Logical Ability-(Number Series)
+Q01. Find the Missing Number :	1, 3, 9, __, 81, 243, 729, 2187, 6561, 19863, 59049  
+; 36; 53; 27; 72 
+A01. ('c', '27')
+Q02. Find out the Next Number : 	5, 25, 325, 4325, __
+; 9325; 15525; 65325; 54325
+A02. ('d', '54325')
+Q03. Find the Missing Number :	5, 7, 11, 13, 17, __  
+; 17; 19; 20; 21 
+A03. ('b', '19')
+Q03. Find the Missing Digit :	7122, 6521, 8332, 4743, 9911, 387_ 
+; 4; 3; 2; 1 
+A03. ('a', '4')
+Q04. Find the Missing Number :	3, 5, 8, 13, 22, __ 
+; 39; 25; 65; 35 
+A04. ('a', '39')
+Q05. Find the Missing Number :	26, 28, 31, 35, __ 
+; 40; 38; 45; 39 
+A05. ('a', '40')
+Q06. [BONUS] Find the Missing Number :	12, 26, 54, __ 
+; 100; 138; 96 ; 110 
+A06. ('d', '110')
+
+[LEVEL4]:Full Forms (Networking And Technology Based)
+Q01. What is the full form of LTE 
+; Light Transfer Efficiency; Long Transmission Emission; Long Term Evolution; Laser Transmission Endurance 
+A01. ('c', 'long term evolution')
+Q02. What is the full form of DNS 
+; Domain Name System; Data Network Setup; Device Networking System; Data Neural Summation 
+A02. ('a', 'domain name system')
+Q03. What is the full form of CAN 
+; CAsting Network; City Area Network; Command Active Network; Controller Area Network 
+A03. ('d', 'controller area network')
+Q04. What is the full form of HSPA 
+; High Speed Process Area; High Speed Packet Access; Hardware System Private Access; High Speed Personal Area 
+A04. ('b', 'high speed packet access')
+Q05. What is the full form of CDMA
+; Current Data Mode Access; Connection Division Multiple Access; Code Division Multiple Access; Control Data Management Access
+A05. ('c', 'code division multiple access')
+Q06. What is the full form of TCP
+; Transfer Command Process; Transmission Control Protocol; Transmission Command Protocal; Transverse Command Protocol
+A06. ('b', 'transmission control protocol')
+Q07. What is the full form of APN
+; Advanced Packet Networking; Artificial Protocol Networking; Access Point Name; Accessory Protocol Networking
+A07. ('c', 'access point name')
+Q08. What is the full form of DVD
+; Digital Versatile Disc; Digital Video Disc; Both (a) and (b) are valid; Digital Volume Disk
+A08. ('c', 'both (a) and (b)', 'both a and b', 'a+b', 'a and b', 'ab')
+Q09. What is the full form of HDMI
+; High Definition Multimedia Interface; High Definition Media Internet; Hardware Data Multiple Interface; High Division Multimedia Interaction
+A09. ('a', 'high definition multimedia interface')
+Q10. What is the full form of VGA
+; Video Graphics Area; Video Graphics Access; Video Graphics Architecture; Video Graphics Array
+A10. ('d', 'video graphics array')
+Q11. What is the full form of GIF 
+; Graphics Interchange Format; Graphical Intermix Format; Graphic InterFace; Graphical InterFace 
+A11. ('a', 'graphics interchange format')
+Q12. What is the full form of DVI 
+; Data Video Internet; Digital Visual Interface; Digital Visuality Interchange; Digital Volume Interaction 
+A12. ('d', 'digital volume interaction')
+Q13. What is the full form of COBOL 
+; COmmon Business-Oriented Language; COmmand Beginners-Oriented Language; COmmon Bios-Object Language; COmmand Basic-Object Language  
+A13. ('a', 'common business-oriented language')
+Q14. Which of the following is the apt full form of SMTP
+; Simple Message Telecommunication Privacy; Simple Mail Transfer Protocol; Smart Multimedia Transfer Protocol; Superfast Media Trivial Protection 
+A14. ('b', 'simple mail transfer protocol')
+Q14. [BONUS] What is WCDMA
+; Wireband Code Division Multiple Access; WideBroad Code Division Multiple Access; Wireless Code Division Multiple Access; Wired Code Division Multiple Access
+A14. ('c', 'wireless code division multiple access', 'wireless cdma')
+Q15. [BONUS] What is meant by DHCP
+; Dynamic Host Conference Protocol; Data Hardware Communication Protocol; Dynamic Host Configuration Protocol; Data Host Controller Protocol
+A15. ('c', 'dynamic host configuration protocol')
